@@ -27,13 +27,23 @@ This project addresses the limitations of traditional voting methods by eliminat
 
 The project is built using modern, industry-standard tools and frameworks, including:
 
-* **Programming Languages:** Java and JavaScript
-* **Backend Framework:** Spring Boot
-* **Frontend Framework:** React
-* **Database:** PostgreSQL or MySQL
-* **Web Servers:** Apache or Nginx
-* **Security Protocols:** SSL/TLS encryption, multi-factor authentication, and secure credential storage
-* **APIs & Communication:** RESTful APIs, WebSocket for real-time updates, and SMTP for email notifications
+Front-End
+•	React: A JavaScript library for building user interfaces.
+•	Vite: A modern build tool that provides fast development and optimized bundling.
+•	CSS Libraries: Bootstrap, Tailwind CSS, Material-UI
+•	TypeScript: A statically typed superset of JavaScript that compiles to plain JavaScript.
+
+Back-End
+•	Node.js: A JavaScript runtime engine that executes code server-side.
+•	Express.js: A minimal and flexible Node.js web application framework that provides a set of features for web applications.
+•	TypeScript (Back-End)
+
+Database
+•	MongoDB: A NoSQL document-oriented database.
+•	Mongoose: An Object Data Modeling (ODM) library.
+
+Version Control:
+•	Git using platforms like GitHub and GitLab.
 
 ## Installation & Setup
 
